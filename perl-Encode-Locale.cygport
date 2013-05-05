@@ -1,0 +1,10 @@
+CPAN_AUTHOR="gaas"
+inherit perl
+
+NAME="perl-Encode-Locale"
+VERSION=1.03
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Locale encoding detection module for Perl"
+DESCRIPTION="The purpose of this Perl module is try determine what encodings
+should be used when interfacing to various external interfaces."
